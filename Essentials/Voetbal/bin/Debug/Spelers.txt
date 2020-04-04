@@ -1,0 +1,176 @@
+3,50,Sven,Dhoest,D
+3,2,Tom,Høgli,V
+3,3,Michael,Almebäck,V
+3,4,Carl,Hoefkens,V
+3,5,Fredrik,Stenman,V
+3,6,Enoch Kofi,Adu,M
+3,8,Lior,Refaelov,M
+3,10,Jesper,Jørgensen,M
+3,7,Mohamed,Tchité,A
+3,17,Ivan,Trickovski,A
+3,70,Carlos,Bacca,A
+7,1,Frank,Boeckx,D
+7,5,Valery,Nahayo,V
+7,23,Ervin,Zukanovic,V
+7,25,Wallace Fernando, Pereira,V
+7,31,Rémi,Maréval,V
+7,8,Bernd,Thijs,M
+7,10,Renato,Neto,M
+7,11,Hervé,Kage,M
+7,9,Ilombe,Mboyo,A
+7,12,Tom,Boere,A
+7,16,Rodgers,Kola,A
+12,25,Bram,Verbist,D
+12,3,Anthony,Portier,V
+12,4,Bernt,Evens,V
+12,8,Hans,Cornelis,V
+12,37,Niels,Mestdagh,V
+12,40,Stephen,Buyl,M
+12,18,Kevin,Janssens,M
+12,7,Tim,Smolders,M
+12,10,Michael,Uchebo,A
+12,30,Kristof,D'haene,A
+12,11,Mushaga,Bakenga,A
+16,1,Eiji,Kawashima,D
+16,2,Loïc,Nego,V
+16,3,Corentin,Fiore,V
+16,4,Daniel,Opare,V
+16,6,Laurent,Ciman,V
+16,8,Astrit,Ajdarevic,M
+16,10,Adrian,Cristea,M
+16,11,Frédéric,Bulot,M
+16,7,Reza,Ghoochannejhad,A
+16,9,George,Tucudean,A
+16,13,Kensuke,Nagai,A
+19,1,Rémi,Pillot,D
+19,3,Baptiste,Martin,V
+19,5,Alassane,També,V
+19,6,David,Wijns,V
+19,11,Mustapha,Oussalah,V
+19,4,Ismaïla,N'Diaye,M
+19,8,Nebojša,Pavlovic,M
+19,15,Dylan,Ragolle,M
+19,7,Pablo,Chavarría,A
+19,9,Kévin,Dupuis,A
+19,10,Ernest,Nfor,A
+22,1,Michalis,Sifakis,D
+22,3,Elvedin,Džinic,V
+22,4,Omar,Jarun,V
+22,5,Mourad,Satli,V
+22,6,Dorian,Dessoleil,V
+22,13,Christophe,Diandy,M
+22,14,Samuel,Fabris,M
+22,22,Guillaume,François,M
+22,29,Ziguy,Badibanga,A
+22,86,Giuseppe,Rossini,A
+22,99,Mynor,Escoe,A
+25,1,Wouter,Biebauw,D
+25,5,Kenny,Van Hoevelen,V
+25,6,Sheldon,Bateau,V
+25,8,Jerry,Vandam,V
+25,17,Senad,Karahmet,V
+25,12,Steven,De Petter,M
+25,4,Seth,De Witte,M
+25,11,Mats,Rits,M
+25,9,Mads,Junker,A
+25,14,Nicklas,Pedersen,A
+25,27,Jordi,Vanlerberghe,A
+30,1,Matz,Sels,D
+30,2,Kris,De Wree,V
+30,3,Lennert,Vanherberghen,V
+30,4,Arjan,Swinkels,V
+30,5,Jonas,Heymans,V
+30,8,Soufiane,Bidaoui,M
+30,9,Geoffry,Hairemans,M
+30,10,Hussain,Abdulrahman,M
+30,7,Mohamed,El-Gabbas,A
+30,11,Jason,Adesanya,A
+30,24,Kostadin,Hazurov,A
+35,1,Silvio,Proto,D
+35,3,Olivier,Deschacht,V
+35,4,Michaël,Heylen,V
+35,8,Denis,Odoi,V
+35,14,Bram,Nuytinck,V
+35,5,Lucas,Biglia,M
+35,6,Demy,de Zeeuw,M
+35,19,Sacha,Kljestan,M
+35,7,Samuel,Armenteros,A
+35,9,Matias,Suarez,A
+35,11,Milan,Jovanovic,A
+44,1,Cédric,Berthelin,D
+44,4,Peter,Franquart,V
+44,15,Daan,Van Gijseghem,V
+44,20,Grégory,Lorenzi,V
+44,29,Nicolas,Timmermans,V
+44,6,Matthieu,Debisschop,M
+44,7,Tim,Matthys,M
+44,8,Tom,Van Imschoot,M
+44,9,Aloys,Nong,A
+44,10,Shlomi,Arbeitman,A
+44,16,Bahattin,Köse,A
+282,1,Barry,Boubacar Copa,D
+282,2,Alexander,Scholz,V
+282,3,Hassan,El Mouataz,V
+282,4,Jérémy,Taravel,V
+282,5,Mijat,Maric,V
+282,6,Tshinyama,Tiko,M
+282,7,Killian,Overmeire,M
+282,8,Koen,Persoons,M
+282,9,Hamdi,Harbaoui,A
+282,14,Benjamin,Mokulu Tembe,A
+282,16,Jore,Trompet,A
+322,22,Kristof,Van Hout,D
+322,3,Katuku,Tshimanga,V
+322,4,Torben,Joneleit,V
+322,5,Kalidou,Koulibaly,V
+322,11,Brian,Hamalainen,V
+322,2,Kara,Mbodj,M
+322,7,Khaleem,Hyland,M
+322,10,Julien,Gorius,M
+322,6,Kim,Ojo,A
+322,8,Steeven,Joseph-Monrose,A
+322,9,Jelle,Vossen,A
+3530,1,Stijn,Stijnen,D
+3530,2,Stefano,Marzo,V
+3530,3,Dries,Wuytens,V
+3530,4,Frédéric,Brillant,V
+3530,22,Maxime,Chanot,V
+3530,6,Wim,De Decker,M
+3530,10,Joachim,Mununga,M
+3530,11,Joey,Suk,M
+3530,7,Benito,Raman,A
+3530,8,Kennedy,Nwanganga,A
+3530,9,Roy,Dayan,A
+4068,1,Michael,Clepkens,D
+4068,3,Kristof,Lardenoit,V
+4068,5,Kassim,Doumbia,V
+4068,12,Gal,Shish,V
+4068,19,Cedric,D'Ulivo,V
+4068,8,Rachid,Farssi,M
+4068,10,Michaël,Seoudi,M
+4068,6,Karim,Belhocine,M
+4068,7,Jurgen,Cavens,A
+4068,9,Barak,Badash,A
+4068,10,Jordan,Remacle,A
+5381,1,Sammy,Bossut,D
+5381,2,Davy,De fauw,V
+5381,3,Steve,Colpaert,V
+5381,4,Pietro,Perdichizzi,V
+5381,15,Niels,Vandenbroucke,V
+5381,6,Jonathan,Delaplace,M
+5381,8,Thorgan,Hazard,M
+5381,10,Franck,Berrier,M
+5381,9,Mbaye,Leye,A
+5381,12,Aleksandar,Trajkovski,A
+5381,11,Ivan,Lendric,A
+6142,1,Yves,Lenaerts,D
+6142,2,Tomislav,Mikulic,V
+6142,3,Robson,Severino da Silva,V
+6142,4,Wim,Raymaekers,V
+6142,5,Kenny,Thompson,V
+6142,6,Kenneth,Van Goethem,M
+6142,7,Ovidy,Karuru,M
+6142,8,Karel,Geraerts,M
+6142,20,Evariste,Ngolok,M
+6142,11,Alessandro,Cerigioni,A
+6142,12,Ebrahima,Sawaneh,A

@@ -1,0 +1,14 @@
+D:\.net essentials 2\CannonBall\bin\Debug\CannonBall.exe.config
+D:\.net essentials 2\CannonBall\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\CannonBall\obj\Debug\App.g.cs
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall_MarkupCompile.cache
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall_MarkupCompile.lref
+D:\.net essentials 2\CannonBall\bin\Debug\CannonBall.exe
+D:\.net essentials 2\CannonBall\bin\Debug\CannonBall.pdb
+D:\.net essentials 2\CannonBall\obj\Debug\MainWindow.baml
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall.g.resources
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall.Properties.Resources.resources
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall.csproj.GenerateResource.Cache
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall.exe
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall.pdb
+D:\.net essentials 2\CannonBall\obj\Debug\CannonBall.csprojResolveAssemblyReference.cache

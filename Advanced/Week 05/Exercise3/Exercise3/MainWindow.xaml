@@ -1,0 +1,24 @@
+﻿<Window x:Class="Exercise3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Enter person's name" FontSize="20" VerticalAlignment="Top"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="10,64,0,0" TextWrapping="Wrap" Text="First name:" FontSize="15" VerticalAlignment="Top"/>
+        <TextBox x:Name="firstNameTextBox" GotFocus="FirstNameDeletePlaceholder" LostFocus="FirstNamePlaceholder" HorizontalAlignment="Left" Height="23" Margin="112,66,0,0" TextWrapping="Wrap" Text="{Binding FirstName}" VerticalAlignment="Top" Width="120"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="11,89,0,0" TextWrapping="Wrap" Text="Last name:" FontSize="15" VerticalAlignment="Top"/>
+        <TextBox x:Name="lastNameTextBox" GotFocus="LastNameDeletePlaceholder" LostFocus="LastNamePlaceholder" HorizontalAlignment="Left" Height="23" Margin="112,91,0,0" TextWrapping="Wrap" Text="{Binding LastName}" VerticalAlignment="Top" Width="120"/>
+
+        <TextBox x:Name="fullNameTextBox" GotFocus="FullNameDeletePlaceholder" LostFocus="FullNamePlaceholder" HorizontalAlignment="Left" Margin="11,124,0,0" TextWrapping="Wrap" FontSize="15" VerticalAlignment="Top" Text="{Binding FullName}"/>
+        
+        <Button Content="close" Click="Button_Click" HorizontalAlignment="Left" Margin="146,150,0,0" VerticalAlignment="Top" Width="75"/>
+
+
+    </Grid>
+</Window>

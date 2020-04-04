@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCRoots\Mod01-GCRoots\bin\Debug\Mod01-GCRoots.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCRoots\Mod01-GCRoots\bin\Debug\Mod01-GCRoots.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCRoots\Mod01-GCRoots\bin\Debug\Mod01-GCRoots.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCRoots\Mod01-GCRoots\obj\Debug\Mod01-GCRoots.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCRoots\Mod01-GCRoots\obj\Debug\Mod01-GCRoots.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCRoots\Mod01-GCRoots\obj\Debug\Mod01-GCRoots.pdb

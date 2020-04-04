@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithGenerics\WorkerWithGenerics\bin\Debug\WorkerWithGenerics.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithGenerics\WorkerWithGenerics\bin\Debug\WorkerWithGenerics.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithGenerics\WorkerWithGenerics\bin\Debug\WorkerWithGenerics.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithGenerics\WorkerWithGenerics\obj\Debug\WorkerWithGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithGenerics\WorkerWithGenerics\obj\Debug\WorkerWithGenerics.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithGenerics\WorkerWithGenerics\obj\Debug\WorkerWithGenerics.pdb

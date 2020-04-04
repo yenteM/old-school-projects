@@ -1,0 +1,7 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-Finalization\Mod01-Finalization\bin\Release\Mod01-Finalization.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-Finalization\Mod01-Finalization\bin\Release\log.txt
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-Finalization\Mod01-Finalization\bin\Release\Mod01-Finalization.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-Finalization\Mod01-Finalization\bin\Release\Mod01-Finalization.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-Finalization\Mod01-Finalization\obj\Release\Mod01-Finalization.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-Finalization\Mod01-Finalization\obj\Release\Mod01-Finalization.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-Finalization\Mod01-Finalization\obj\Release\Mod01-Finalization.pdb

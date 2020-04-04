@@ -1,0 +1,46 @@
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\App.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin_MarkupCompile.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin_MarkupCompile.lref
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\AlbumAdmin.exe.config
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\AlbumAdmin.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\AlbumAdmin.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\MainPage.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\MainPage.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.g.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.csproj.GenerateResource.Cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.csproj.CoreCompileInputs.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\SelectPage.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\ShowAllPage.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\UpdatePage.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\SelectPage.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\ShowAllPage.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\UpdatePage.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\MusicStoreData.dll
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\MusicStoreData.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\AlbumAdmin.exe.config
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\AlbumAdmin.exe
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\AlbumAdmin.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\MusicStoreData.dll
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\bin\Debug\MusicStoreData.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\MainPage.g.cs
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\SelectPage.g.cs
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\ShowAllPage.g.cs
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\UpdatePage.g.cs
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\App.g.cs
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin_MarkupCompile.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin_MarkupCompile.lref
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\MainPage.baml
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\SelectPage.baml
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\ShowAllPage.baml
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\UpdatePage.baml
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.g.resources
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.Properties.Resources.resources
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.csproj.GenerateResource.Cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.exe
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\AlbumAdmin\obj\Debug\AlbumAdmin.pdb

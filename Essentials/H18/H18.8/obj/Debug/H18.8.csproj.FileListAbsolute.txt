@@ -1,0 +1,14 @@
+D:\.net essentials 2\H18\H18.8\bin\Debug\H18.8.exe.config
+D:\.net essentials 2\H18\H18.8\bin\Debug\H18.8.exe
+D:\.net essentials 2\H18\H18.8\bin\Debug\H18.8.pdb
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18.8.csprojResolveAssemblyReference.cache
+D:\.net essentials 2\H18\H18.8\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\H18\H18.8\obj\Debug\App.g.cs
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18.8_MarkupCompile.cache
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18.8_MarkupCompile.lref
+D:\.net essentials 2\H18\H18.8\obj\Debug\MainWindow.baml
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18.8.g.resources
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18._8.Properties.Resources.resources
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18.8.csproj.GenerateResource.Cache
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18.8.exe
+D:\.net essentials 2\H18\H18.8\obj\Debug\H18.8.pdb

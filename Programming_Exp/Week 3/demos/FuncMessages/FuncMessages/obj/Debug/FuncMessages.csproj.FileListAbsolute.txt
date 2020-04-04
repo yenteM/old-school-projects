@@ -1,0 +1,5 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\FuncMessages\FuncMessages\bin\Debug\FuncMessages.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\FuncMessages\FuncMessages\bin\Debug\FuncMessages.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\FuncMessages\FuncMessages\bin\Debug\FuncMessages.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\FuncMessages\FuncMessages\obj\Debug\FuncMessages.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\FuncMessages\FuncMessages\obj\Debug\FuncMessages.pdb

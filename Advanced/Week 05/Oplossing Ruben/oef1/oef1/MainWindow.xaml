@@ -1,0 +1,62 @@
+﻿<Window x:Class="oef1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oef1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style x:Key="infoStyle" TargetType="TextBlock">
+            <Setter Property="Width" Value="70"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,1" EndPoint="0,0">
+                <GradientStop Color="white" Offset="1.1"/>
+                <GradientStop Color="Blue" Offset="0.1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DockPanel Margin="10">
+            <ListBox x:Name="studentsListBox" Width="120" SelectedIndex="0" DisplayMemberPath="Name" SelectionChanged="studentsListBox_SelectionChanged" >
+            </ListBox>
+            <DockPanel>
+                <Label DockPanel.Dock="Top" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Verdana" FontWeight="Bold" Margin="10" FontSize="20">
+                    <TextBlock Foreground="Blue" Text="{Binding Name}">
+                         
+                    </TextBlock>
+                </Label>
+                <StackPanel DockPanel.Dock="Bottom" Margin="20,10,20,40">
+                    <DockPanel Margin="0,0,0,5">
+                        <TextBlock Style="{StaticResource infoStyle}" FontFamily="Verdana" FontWeight="Bold">Street:</TextBlock>
+                        <TextBox Text="{Binding Street}"></TextBox>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,5">
+                        <TextBlock Style="{StaticResource infoStyle}" FontFamily="Verdana" FontWeight="Bold">City:</TextBlock>
+                        <TextBox Text="{Binding City}"></TextBox>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,5">
+                        <TextBlock Style="{StaticResource infoStyle}" FontFamily="Verdana" FontWeight="Bold">State:</TextBlock>
+                        <ComboBox x:Name="stateComboBox" SelectedIndex="{Binding State}"></ComboBox>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,5">
+                        <TextBlock Style="{StaticResource infoStyle}" FontFamily="Verdana" FontWeight="Bold">Zip:</TextBlock>
+                        <TextBox Text="{Binding Zip}"></TextBox>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,5">
+                        <TextBlock Style="{StaticResource infoStyle}" FontFamily="Verdana" FontWeight="Bold">Phone:</TextBlock>
+                        <TextBox Text="{Binding Phone}"></TextBox>
+                    </DockPanel>
+                    <DockPanel Margin="0,0,0,5">
+                        <TextBlock Style="{StaticResource infoStyle}" FontFamily="Verdana" FontWeight="Bold">Cell:</TextBlock>
+                        <TextBox Text="{Binding Cell}"></TextBox>
+                    </DockPanel>
+                    <Button x:Name="button" Content="Button" Width="75" Click="button_Click"/>
+                </StackPanel>
+            </DockPanel>
+        </DockPanel>
+    </Grid>
+</Window>

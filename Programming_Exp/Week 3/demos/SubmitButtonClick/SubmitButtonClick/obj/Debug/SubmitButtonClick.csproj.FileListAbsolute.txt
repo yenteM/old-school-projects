@@ -1,0 +1,14 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\bin\Debug\SubmitButtonClick.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\bin\Debug\SubmitButtonClick.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\bin\Debug\SubmitButtonClick.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\MainWindow.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\App.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick_MarkupCompile.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick_MarkupCompile.lref
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\MainWindow.baml
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick.g.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick.Properties.Resources.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick.csproj.GenerateResource.Cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\SubmitButtonClick\SubmitButtonClick\obj\Debug\SubmitButtonClick.pdb

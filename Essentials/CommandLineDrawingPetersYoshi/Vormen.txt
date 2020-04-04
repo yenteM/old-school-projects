@@ -1,0 +1,4 @@
+teken rechthoek 20,20,60,80 #FFFF0000
+vul ellips 50,100,150,70 #FFFFA500
+vul rechthoek 70,30,120,90 #FF008000
+teken ellips 50,50,300,80 #FF0000FF

@@ -1,0 +1,43 @@
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\bin\Debug\exercise4.exe.config
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\bin\Debug\exercise4.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\bin\Debug\exercise4.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\MainWindow.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\App.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4_MarkupCompile.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4_MarkupCompile.lref
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\MainWindow.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4.g.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4.csproj.GenerateResource.Cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\exercise4\obj\Debug\exercise4.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\bin\Debug\exercise4.exe.config
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\bin\Debug\exercise4.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\bin\Debug\exercise4.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\MainWindow.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\App.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4_MarkupCompile.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4_MarkupCompile.lref
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\MainWindow.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4.g.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\exercise4\obj\Debug\exercise4.csproj.GenerateResource.Cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\bin\Debug\exercise4.exe.config
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\bin\Debug\exercise4.exe
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\bin\Debug\exercise4.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\MainWindow.g.cs
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\App.g.cs
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4_MarkupCompile.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4_MarkupCompile.lref
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\MainWindow.baml
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4.g.resources
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4.Properties.Resources.resources
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4.csproj.GenerateResource.Cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4.exe
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 02\WPF controls\exercise4\obj\Debug\exercise4.pdb

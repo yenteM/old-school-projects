@@ -1,0 +1,16 @@
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csproj.GenerateResource.Cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csproj.CoreCompileInputs.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\bin\Debug\MusicStoreData.dll
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\bin\Debug\MusicStoreData.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.dll
+D:\school\2e 2.0\.net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\bin\Debug\MusicStoreData.dll
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\bin\Debug\MusicStoreData.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.Properties.Resources.resources
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csproj.GenerateResource.Cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.dll
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 07\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.pdb

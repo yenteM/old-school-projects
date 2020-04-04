@@ -1,0 +1,22 @@
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.csprojAssemblyReference.cache
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.csproj.CoreCompileInputs.cache
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.AssemblyInfoInputs.cache
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.AssemblyInfo.cs
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.deps.json
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.runtimeconfig.json
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.runtimeconfig.dev.json
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.dll
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.pdb
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.dll
+D:\school\3e\1. Kwartaal 1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.deps.json
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.runtimeconfig.json
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.runtimeconfig.dev.json
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.dll
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\bin\Debug\netcoreapp2.1\LightingApp.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.csproj.CoreCompileInputs.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.AssemblyInfoInputs.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.AssemblyInfo.cs
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.dll
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\LightingApp\LightingApp\obj\Debug\netcoreapp2.1\LightingApp.csprojAssemblyReference.cache

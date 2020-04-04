@@ -1,0 +1,14 @@
+D:\.net essentials 2\H02\FirstHello\bin\Debug\FirstHello.exe.config
+D:\.net essentials 2\H02\FirstHello\bin\Debug\FirstHello.exe
+D:\.net essentials 2\H02\FirstHello\bin\Debug\FirstHello.pdb
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello.csprojResolveAssemblyReference.cache
+D:\.net essentials 2\H02\FirstHello\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\H02\FirstHello\obj\Debug\App.g.cs
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello_MarkupCompile.cache
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello_MarkupCompile.lref
+D:\.net essentials 2\H02\FirstHello\obj\Debug\MainWindow.baml
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello.g.resources
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello.Properties.Resources.resources
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello.csproj.GenerateResource.Cache
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello.exe
+D:\.net essentials 2\H02\FirstHello\obj\Debug\FirstHello.pdb

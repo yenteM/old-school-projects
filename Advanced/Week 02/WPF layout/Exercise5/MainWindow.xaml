@@ -1,0 +1,31 @@
+﻿<Window x:Class="Exercise5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+            <WrapPanel Margin="2.5">
+                <TextBlock Text="Name: " HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox Width="200" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+            </WrapPanel>
+            <WrapPanel Margin="2.5">
+                <TextBlock Text="Length: " HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="lengthBox" Width="100" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+                <TextBlock Text=" feet" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            </WrapPanel>
+            <Button x:Name="BerekenButton" Content="Bereken de rompsnelheid." Margin="2.5" HorizontalAlignment="Center"/>
+            <TextBlock x:Name="snelheidTextBlock" HorizontalAlignment="Center"/>
+
+
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Right" Orientation="Vertical">
+            <Image Source="D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF layout\Exercise5\Image\Boat.jpg" Width="250"/>
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>

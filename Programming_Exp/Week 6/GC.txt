@@ -1,0 +1,24 @@
+gc zorgt ervoor dat je zelf geen geheugen moet vrijmaken.
+
+mark-and-sweep: alle objecten worden gealloceerd op de heap
+		mark: alle levende objecten worden gezocht.
+		sweep: alle dode objecten reclaimen 
+		compact: levende objecten samenschuiven
+
+compacting:
+
+generational:
+
+tracing:
+
+allmost concurrent:
+
+parallel:
+
+
+timer wat niet werkt in release modus komt doordat de gc in release modus veel agressiever is in release
+als de variable niet meer nodig is wist hij deze gewoon. in debug modus is dit niet omdat programmeurs vaak
+de hele methode willen debuggen dus wacht de GC tot de methode gedaan is.
+dit kan opgelost worden met GC.KeepAlive(timer)
+
+algoritme kunnen uitleggen, problematieken kunnen uitleggen zoals hierboven, zien welke gc er gebruikt wordt...

@@ -1,0 +1,14 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\bin\Debug\AsyncGoodWPF.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\bin\Debug\AsyncGoodWPF.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\bin\Debug\AsyncGoodWPF.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\App.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF_MarkupCompile.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF_MarkupCompile.lref
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\MainWindow.baml
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF.g.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF.Properties.Resources.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF.csproj.GenerateResource.Cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncGoodWPF\AsyncGoodWPF\obj\Debug\AsyncGoodWPF.pdb

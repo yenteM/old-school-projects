@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\OnlyThreads\OnlyThreads\bin\Debug\OnlyThreads.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\OnlyThreads\OnlyThreads\bin\Debug\OnlyThreads.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\OnlyThreads\OnlyThreads\bin\Debug\OnlyThreads.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\OnlyThreads\OnlyThreads\obj\Debug\OnlyThreads.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\OnlyThreads\OnlyThreads\obj\Debug\OnlyThreads.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\OnlyThreads\OnlyThreads\obj\Debug\OnlyThreads.pdb

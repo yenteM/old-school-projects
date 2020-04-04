@@ -1,0 +1,11 @@
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\obj\Debug\netcoreapp2.1\TemperatureSensor.csproj.CoreCompileInputs.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\obj\Debug\netcoreapp2.1\TemperatureSensor.AssemblyInfoInputs.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\obj\Debug\netcoreapp2.1\TemperatureSensor.AssemblyInfo.cs
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\bin\Debug\netcoreapp2.1\TemperatureSensor.deps.json
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\bin\Debug\netcoreapp2.1\TemperatureSensor.runtimeconfig.json
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\bin\Debug\netcoreapp2.1\TemperatureSensor.runtimeconfig.dev.json
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\bin\Debug\netcoreapp2.1\TemperatureSensor.dll
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\bin\Debug\netcoreapp2.1\TemperatureSensor.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\obj\Debug\netcoreapp2.1\TemperatureSensor.dll
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\obj\Debug\netcoreapp2.1\TemperatureSensor.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSensor\obj\Debug\netcoreapp2.1\TemperatureSensor.csprojAssemblyReference.cache

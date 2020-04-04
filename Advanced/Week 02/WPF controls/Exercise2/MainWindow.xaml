@@ -1,0 +1,28 @@
+﻿<Window x:Class="Exercise2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="hulkBrush">
+            <GradientStop Color="LimeGreen" Offset="0.0"/>
+            <GradientStop Color="Green" Offset="0.5"/>
+            <GradientStop Color="LimeGreen" Offset="1.0"/>
+        </LinearGradientBrush>
+        <Style x:Name="hulkStyle" TargetType="{x:Type Button}">
+        <Setter Property="Background" Value="{StaticResource hulkBrush}"/>
+    </Style>
+    </Window.Resources>
+
+        
+    <Grid>
+        <Button x:Name="helloButton" Content="Hello"  FontWeight="Bold" HorizontalAlignment="Left" Margin="183,10,0,0" VerticalAlignment="Top" Style="{StaticResource hulkStyle}" Width="150"/>
+        <Button x:Name="bigButton" Content="BIG BUTTON" FontWeight="Bold" FontSize="20" HorizontalAlignment="Left" Margin="183,35,0,0" VerticalAlignment="Top" Width="150" Style="{StaticResource hulkStyle}"/>
+        <Button x:Name="disabledButton" Content="Disabled" IsEnabled="False" HorizontalAlignment="Left" Margin="183,70,0,0" VerticalAlignment="Top" Width="150" Style="{StaticResource hulkStyle}"/>
+
+
+    </Grid>
+</Window>

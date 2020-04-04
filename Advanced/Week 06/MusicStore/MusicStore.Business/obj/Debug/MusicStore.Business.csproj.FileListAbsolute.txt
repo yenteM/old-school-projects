@@ -1,0 +1,20 @@
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Business.dll
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Business.pdb
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Data.dll
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Data.pdb
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.csproj.GenerateResource.Cache
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.csproj.CoreCompileInputs.cache
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.dll
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Business.dll
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Business.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Data.dll
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\bin\Debug\MusicStore.Data.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.Properties.Resources.resources
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.csproj.GenerateResource.Cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.dll
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Business\obj\Debug\MusicStore.Business.pdb

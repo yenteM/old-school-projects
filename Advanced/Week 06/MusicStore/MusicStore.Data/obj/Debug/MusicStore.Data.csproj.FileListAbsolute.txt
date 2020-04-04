@@ -1,0 +1,14 @@
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csproj.GenerateResource.Cache
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csproj.CoreCompileInputs.cache
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\bin\Debug\MusicStore.Data.dll
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\bin\Debug\MusicStore.Data.pdb
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.dll
+D:\school\2e 2.0\.net adv\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.pdb
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.Properties.Resources.resources
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csproj.GenerateResource.Cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.dll
+C:\Users\patrick\Desktop\2e 2.0\1. .net adv\Oefeningen\Week 06\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.pdb

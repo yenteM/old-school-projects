@@ -1,0 +1,14 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\bin\Debug\BackgroundWorkerDemoWPF.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\bin\Debug\BackgroundWorkerDemoWPF.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\bin\Debug\BackgroundWorkerDemoWPF.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\App.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF_MarkupCompile.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF_MarkupCompile.lref
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\MainWindow.baml
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF.g.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF.Properties.Resources.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF.csproj.GenerateResource.Cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\BackgroundWorkerDemoWPF\BackgroundWorkerDemoWPF\obj\Debug\BackgroundWorkerDemoWPF.pdb

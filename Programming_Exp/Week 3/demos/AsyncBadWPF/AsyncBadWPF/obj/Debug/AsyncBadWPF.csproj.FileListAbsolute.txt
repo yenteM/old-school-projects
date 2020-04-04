@@ -1,0 +1,14 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\bin\Debug\AsyncBadWPF.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\bin\Debug\AsyncBadWPF.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\bin\Debug\AsyncBadWPF.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\App.g.cs
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF_MarkupCompile.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF_MarkupCompile.lref
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\MainWindow.baml
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF.g.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF.Properties.Resources.resources
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF.csproj.GenerateResource.Cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\demos\AsyncBadWPF\AsyncBadWPF\obj\Debug\AsyncBadWPF.pdb

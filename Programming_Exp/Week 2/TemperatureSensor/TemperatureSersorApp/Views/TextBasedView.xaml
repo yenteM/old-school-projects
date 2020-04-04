@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="TemperatureSersorApp.Views.TextBasedView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TemperatureSersorApp.Views"
+             mc:Ignorable="d" Height="332.02" Width="380.301">
+    <Grid Margin="0,0,478,184">
+        <Label x:Name="temperatureLabel" Content="Label" HorizontalAlignment="Left" Margin="49,50,-319,-141" VerticalAlignment="Top" FontSize="100" Height="239" Width="270"/>
+
+    </Grid>
+</UserControl>

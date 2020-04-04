@@ -1,0 +1,59 @@
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\bin\Debug\CommandLineDrawing.exe.config
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\App.g.cs
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing_MarkupCompile.cache
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing_MarkupCompile.lref
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\bin\Debug\CommandLineDrawing.exe
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\bin\Debug\CommandLineDrawing.pdb
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\MainWindow.baml
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing.g.resources
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing.Properties.Resources.resources
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing.csproj.GenerateResource.Cache
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing.exe
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing.pdb
+C:\Users\20002296\Desktop\ExC#\CommandLineDrawing\obj\Debug\CommandLineDrawing.csprojResolveAssemblyReference.cache
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\bin\Debug\CommandLineDrawing.exe.config
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing.exe
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing.pdb
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\bin\Debug\CommandLineDrawing.exe
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\bin\Debug\CommandLineDrawing.pdb
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing.csprojResolveAssemblyReference.cache
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\App.g.cs
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing_MarkupCompile.cache
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing_MarkupCompile.lref
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\MainWindow.baml
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing.g.resources
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing.Properties.Resources.resources
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opl\CommandLineDrawing\obj\Debug\CommandLineDrawing.csproj.GenerateResource.Cache
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\bin\Debug\CommandLineDrawing.exe.config
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing.exe
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing.pdb
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\bin\Debug\CommandLineDrawing.exe
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\bin\Debug\CommandLineDrawing.pdb
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing.csprojResolveAssemblyReference.cache
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\App.g.cs
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing_MarkupCompile.cache
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing_MarkupCompile.lref
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\MainWindow.baml
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing.g.resources
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing.Properties.Resources.resources
+C:\Users\20002296\Documents\C#\Ex\2015-2016\1eZit Vormen\Opg\CommandLineDrawing\obj\Debug\CommandLineDrawing.csproj.GenerateResource.Cache
+Y:\Desktop\CommandLineDrawingPetersYoshi\bin\Debug\CommandLineDrawing.exe.config
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.exe
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.pdb
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.csprojResolveAssemblyReference.cache
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\MainWindow.g.cs
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\App.g.cs
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing_MarkupCompile.cache
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing_MarkupCompile.lref
+Y:\Desktop\CommandLineDrawingPetersYoshi\bin\Debug\CommandLineDrawing.exe
+Y:\Desktop\CommandLineDrawingPetersYoshi\bin\Debug\CommandLineDrawing.pdb
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\MainWindow.baml
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.g.resources
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.Properties.Resources.resources
+Y:\Desktop\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.csproj.GenerateResource.Cache
+D:\.net essentials 2\CommandLineDrawingPetersYoshi\bin\Debug\CommandLineDrawing.exe.config
+D:\.net essentials 2\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.exe
+D:\.net essentials 2\CommandLineDrawingPetersYoshi\obj\Debug\CommandLineDrawing.pdb

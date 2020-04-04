@@ -1,0 +1,15 @@
+﻿<Window x:Class="Voetbal.WedstrijdWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WedstrijdWindow" Height="479" Width="753" Background="#F5F5F5">
+    <Grid>
+        <ListBox Name="spelersPloeg1ListBox" HorizontalAlignment="Left" Height="144" Margin="85,171,0,0" VerticalAlignment="Top" Width="268"/>
+        <ListBox Name="spelersPloeg2ListBox" HorizontalAlignment="Left" Height="144" Margin="383,171,0,0" VerticalAlignment="Top" Width="268"/>
+        <Label Name="scoreP1Label" Content="Label" HorizontalAlignment="Left" Margin="85,46,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Name="scoreP2Label" Content="Label" HorizontalAlignment="Left" Margin="383,46,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Name="ploeg1Label" Content="Label" HorizontalAlignment="Left" Margin="85,119,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Name="ploeg2Label" Content="Label" HorizontalAlignment="Left" Margin="383,119,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Button Name="stopButton" Content="Stop ingave" HorizontalAlignment="Left" Margin="330,357,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

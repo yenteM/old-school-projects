@@ -1,0 +1,28 @@
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\bin\Debug\Exercise10.exe.config
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\bin\Debug\Exercise10.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\bin\Debug\Exercise10.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\MainWindow.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\App.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10_MarkupCompile.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10_MarkupCompile.lref
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\MainWindow.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10.g.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10.csproj.GenerateResource.Cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\Exercise10\obj\Debug\Exercise10.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\bin\Debug\Exercise10.exe.config
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\bin\Debug\Exercise10.exe
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\bin\Debug\Exercise10.pdb
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10.csprojResolveAssemblyReference.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\MainWindow.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\App.g.cs
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10_MarkupCompile.cache
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10_MarkupCompile.lref
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\MainWindow.baml
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10.g.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10.Properties.Resources.resources
+D:\school\2e 2.0\.net adv\Oefeningen\Week02\WPF controls\Exercise10\obj\Debug\Exercise10.csproj.GenerateResource.Cache

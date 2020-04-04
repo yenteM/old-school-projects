@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\ActionMessages\ActionMessages\bin\Debug\ActionMessages.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\ActionMessages\ActionMessages\bin\Debug\ActionMessages.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\ActionMessages\ActionMessages\bin\Debug\ActionMessages.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\ActionMessages\ActionMessages\obj\Debug\ActionMessages.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\ActionMessages\ActionMessages\obj\Debug\ActionMessages.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\ActionMessages\ActionMessages\obj\Debug\ActionMessages.pdb

@@ -1,0 +1,14 @@
+D:\.net essentials 2\H04\Logo\bin\Debug\Logo.exe.config
+D:\.net essentials 2\H04\Logo\bin\Debug\Logo.exe
+D:\.net essentials 2\H04\Logo\bin\Debug\Logo.pdb
+D:\.net essentials 2\H04\Logo\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\H04\Logo\obj\Debug\App.g.cs
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo_MarkupCompile.cache
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo_MarkupCompile.lref
+D:\.net essentials 2\H04\Logo\obj\Debug\MainWindow.baml
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo.g.resources
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo.Properties.Resources.resources
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo.csproj.GenerateResource.Cache
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo.exe
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo.pdb
+D:\.net essentials 2\H04\Logo\obj\Debug\Logo.csprojResolveAssemblyReference.cache

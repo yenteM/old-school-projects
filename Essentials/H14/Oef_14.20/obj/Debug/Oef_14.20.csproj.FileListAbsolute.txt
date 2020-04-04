@@ -1,0 +1,14 @@
+D:\.net essentials 2\H14\Oef_14.20\bin\Debug\Oef_14.20.exe.config
+D:\.net essentials 2\H14\Oef_14.20\bin\Debug\Oef_14.20.exe
+D:\.net essentials 2\H14\Oef_14.20\bin\Debug\Oef_14.20.pdb
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14.20.csprojResolveAssemblyReference.cache
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\App.g.cs
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14.20_MarkupCompile.cache
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14.20_MarkupCompile.lref
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\MainWindow.baml
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14.20.g.resources
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14._20.Properties.Resources.resources
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14.20.csproj.GenerateResource.Cache
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14.20.exe
+D:\.net essentials 2\H14\Oef_14.20\obj\Debug\Oef_14.20.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Seq\StockHistory\bin\Debug\StockHistory.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Seq\StockHistory\bin\Debug\StockHistory.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Seq\StockHistory\obj\Debug\StockHistory.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Seq\StockHistory\obj\Debug\StockHistory.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Step1\StockHistory\obj\Debug\StockHistory.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Step1\StockHistory\obj\Debug\StockHistory.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Step1\StockHistory\bin\Debug\StockHistory.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Step1\StockHistory\obj\Debug\StockHistory.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Step1\StockHistory\bin\Debug\StockHistory.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter4\demos\StockHistory-Step1\StockHistory\bin\Debug\StockHistory.pdb

@@ -1,0 +1,7 @@
+EVENTS AND DELEGATES
+
+een delegate is een referentie naar een methode.
+de delegate kan 1 method refereren maar met += kunnen er ook meerdere methoden gerefereerd worden.
+Deze methoden worden dan na elkaar uitgevoerd met de first come first serve.
+
+als je veel delegates hebt moet je deze uiteindelijk ook opruimen.

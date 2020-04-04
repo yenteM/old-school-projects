@@ -1,0 +1,13 @@
+D:\.net essentials 2\H02\Oef_2.4\bin\Debug\Oef_2.4.exe.config
+D:\.net essentials 2\H02\Oef_2.4\bin\Debug\Oef_2.4.exe
+D:\.net essentials 2\H02\Oef_2.4\bin\Debug\Oef_2.4.pdb
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\App.g.cs
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\Oef_2.4_MarkupCompile.cache
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\Oef_2.4_MarkupCompile.lref
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\MainWindow.baml
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\Oef_2.4.g.resources
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\Oef_2._4.Properties.Resources.resources
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\Oef_2.4.csproj.GenerateResource.Cache
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\Oef_2.4.exe
+D:\.net essentials 2\H02\Oef_2.4\obj\Debug\Oef_2.4.pdb

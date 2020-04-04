@@ -1,0 +1,14 @@
+﻿<Window x:Class="Oef_5._5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_5._5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Name="polygonCanvas" Background="Gray" Height="302" Margin="126,10,0,0" VerticalAlignment="Top" Width="384"/>
+        <Button x:Name="drawPolygonButton" Content="Draw polygon" HorizontalAlignment="Left" Height="302" Margin="10,10,0,0" VerticalAlignment="Top" Width="111" Click="drawPolygonButton_Click"/>
+
+    </Grid>
+</Window>

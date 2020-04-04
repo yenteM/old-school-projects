@@ -1,0 +1,6 @@
+D:\.net essentials 2\H19\Oef_19.6(correct)\bin\Debug\Oef_19.6(correct).exe.config
+D:\.net essentials 2\H19\Oef_19.6(correct)\bin\Debug\Oef_19.6(correct).exe
+D:\.net essentials 2\H19\Oef_19.6(correct)\bin\Debug\Oef_19.6(correct).pdb
+D:\.net essentials 2\H19\Oef_19.6(correct)\obj\Debug\Oef_19.6(correct).csprojResolveAssemblyReference.cache
+D:\.net essentials 2\H19\Oef_19.6(correct)\obj\Debug\Oef_19.6(correct).exe
+D:\.net essentials 2\H19\Oef_19.6(correct)\obj\Debug\Oef_19.6(correct).pdb

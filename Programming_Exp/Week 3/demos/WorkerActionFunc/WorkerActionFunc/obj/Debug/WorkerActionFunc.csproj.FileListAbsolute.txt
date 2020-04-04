@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerActionFunc\WorkerActionFunc\bin\Debug\WorkerActionFunc.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerActionFunc\WorkerActionFunc\obj\Debug\WorkerActionFunc.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerActionFunc\WorkerActionFunc\bin\Debug\WorkerActionFunc.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerActionFunc\WorkerActionFunc\bin\Debug\WorkerActionFunc.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerActionFunc\WorkerActionFunc\obj\Debug\WorkerActionFunc.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerActionFunc\WorkerActionFunc\obj\Debug\WorkerActionFunc.pdb

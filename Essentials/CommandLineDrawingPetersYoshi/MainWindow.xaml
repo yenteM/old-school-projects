@@ -1,0 +1,30 @@
+﻿<Window x:Class="CommandLineDrawing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommandLineDrawing"
+        mc:Ignorable="d"
+        Title="Tekenen op commando: Peters Yoshi" Height="350" Width="525">
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Bestand">
+                <MenuItem Header="Openen" Click="MenuItem_Click" />
+                <MenuItem Header="Opslaan als" Click="MenuItem_Click_1" />
+                <Separator />
+                <MenuItem Header="Sluiten" Click="MenuItem_Click_2" />
+            </MenuItem>
+        </Menu>
+
+        <Grid DockPanel.Dock="Bottom">
+            <TextBox x:Name="commandTextBox" 
+    		    HorizontalAlignment="Left" Height="23"
+    		    Margin="10,21,0,0" VerticalAlignment="Top" Width="491"
+    		    FontFamily="Consolas" FontSize="13" KeyUp="commandTextBox_KeyUp"/>
+            <Canvas HorizontalAlignment="Left" Height="220"
+    		    Margin="10,58,0,0" VerticalAlignment="Top" Width="487"
+    		    x:Name="paperCanvas" Background="AliceBlue"/>
+        </Grid>
+    </DockPanel>
+</Window>

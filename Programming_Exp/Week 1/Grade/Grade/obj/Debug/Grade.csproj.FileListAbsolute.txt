@@ -1,0 +1,6 @@
+D:\school\3e\1. Kwartaal 1\1. Programming Adv\1. .net\Grade\Grade\bin\Debug\Grade.exe.config
+D:\school\3e\1. Kwartaal 1\1. Programming Adv\1. .net\Grade\Grade\bin\Debug\Grade.exe
+D:\school\3e\1. Kwartaal 1\1. Programming Adv\1. .net\Grade\Grade\bin\Debug\Grade.pdb
+D:\school\3e\1. Kwartaal 1\1. Programming Adv\1. .net\Grade\Grade\obj\Debug\Grade.csproj.CoreCompileInputs.cache
+D:\school\3e\1. Kwartaal 1\1. Programming Adv\1. .net\Grade\Grade\obj\Debug\Grade.exe
+D:\school\3e\1. Kwartaal 1\1. Programming Adv\1. .net\Grade\Grade\obj\Debug\Grade.pdb

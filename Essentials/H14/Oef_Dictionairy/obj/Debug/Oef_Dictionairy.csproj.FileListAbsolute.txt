@@ -1,0 +1,14 @@
+D:\.net essentials 2\H14\Oef_Dictionairy\bin\Debug\Oef_Dictionairy.exe.config
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy.csprojResolveAssemblyReference.cache
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\App.g.cs
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy_MarkupCompile.cache
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy_MarkupCompile.lref
+D:\.net essentials 2\H14\Oef_Dictionairy\bin\Debug\Oef_Dictionairy.exe
+D:\.net essentials 2\H14\Oef_Dictionairy\bin\Debug\Oef_Dictionairy.pdb
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\MainWindow.baml
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy.g.resources
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy.Properties.Resources.resources
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy.csproj.GenerateResource.Cache
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy.exe
+D:\.net essentials 2\H14\Oef_Dictionairy\obj\Debug\Oef_Dictionairy.pdb

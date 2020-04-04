@@ -1,0 +1,37 @@
+termen in slides kennen!
+
+CLR
+na compilatie krijg je intermediate language dit wordt omgezet in
+native code wanneer het programma opstart
+
+de runtime's just-in-time gaat alles omzetten naar native code die 
+hergebruikt kan worden en niet telkens omgezet moet worden naar
+native code
+
+als je native code programmeert is de opstartduur sneller.
+
+
+
+met het ildasm.exe commando kan je de intermediate language
+lezen
+
+
+je kan met de .net standard library een programma schrijven 
+dat kan draaien op verschillende frameworks. of toch sommige
+delen hergebruiken van het 1 framework naar het andere.
+
+beter ($"hello, {name}") 
+dan ("hello, " + name) omdat de 1e versie minder geheugen gebruikt.
+
+je kan een reference toevoegen naar een com library
+
+oefening 3  deel 1 mogelijke examenvraag!!!!!!!!!!!!
+
+een struct is een variabele wat niet meer veranderd wordt.
+dit kan bij een class wel
+
+
+
+
+
+

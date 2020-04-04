@@ -1,0 +1,6 @@
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemo\WorkerDemo\bin\Debug\WorkerDemo.exe.config
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemo\WorkerDemo\bin\Debug\WorkerDemo.exe
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemo\WorkerDemo\bin\Debug\WorkerDemo.pdb
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemo\WorkerDemo\obj\Debug\WorkerDemo.csprojResolveAssemblyReference.cache
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemo\WorkerDemo\obj\Debug\WorkerDemo.exe
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemo\WorkerDemo\obj\Debug\WorkerDemo.pdb

@@ -1,0 +1,17 @@
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp.csprojAssemblyReference.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\MainWindow.g.cs
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\Views\TextBasedView.g.cs
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\App.g.cs
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp_MarkupCompile.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp_MarkupCompile.lref
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\bin\Debug\TemperatureSersorApp.exe.config
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\bin\Debug\TemperatureSersorApp.exe
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\bin\Debug\TemperatureSersorApp.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\MainWindow.baml
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\Views\TextBasedView.baml
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp.g.resources
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp.Properties.Resources.resources
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp.csproj.GenerateResource.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp.csproj.CoreCompileInputs.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp.exe
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 2\TemperatureSensor\TemperatureSersorApp\obj\Debug\TemperatureSersorApp.pdb

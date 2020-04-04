@@ -1,0 +1,16 @@
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\bin\Debug\Extra_DominoGame.exe.config
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\bin\Debug\Extra_DominoGame.exe
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\bin\Debug\Extra_DominoGame.pdb
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame.csprojResolveAssemblyReference.cache
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\MainWindow.g.cs
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Moves.g.cs
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\App.g.cs
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame_MarkupCompile.cache
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame_MarkupCompile.lref
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\MainWindow.baml
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Moves.baml
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame.g.resources
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame.Properties.Resources.resources
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame.csproj.GenerateResource.Cache
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame.exe
+C:\Users\Dieter\Desktop\teamhinssen-.net-essentials-7097e3fd6e3a\Extra_DominoGame\Extra_DominoGame\Extra_DominoGame\obj\Debug\Extra_DominoGame.pdb

@@ -1,0 +1,9 @@
+﻿<Window x:Class="Voetbal.RangschikkingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RangschikkingWindow" Height="618" Width="405" Background="#F5F5F5">
+    <Grid>
+        <TextBox Name="rangschikkingTextBox" HorizontalAlignment="Left" Height="442" Margin="57,40,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="278" Background="#F5F5F5"/>
+        <Button Name="sluitButton" Content="Sluit" HorizontalAlignment="Left" Margin="167,522,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

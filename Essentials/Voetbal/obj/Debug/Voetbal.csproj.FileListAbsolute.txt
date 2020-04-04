@@ -1,0 +1,41 @@
+c:\users\20002296\Desktop\Magweg\Voetbal\bin\Debug\Voetbal.exe.config
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\bin\Debug\Voetbal.exe.config
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\bin\Debug\Voetbal.exe
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\bin\Debug\Voetbal.pdb
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.csprojResolveAssemblyReference.cache
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\MainWindow.baml
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\RangschikkingWindow.baml
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\WedstrijdWindow.baml
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\MainWindow.g.cs
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\RangschikkingWindow.g.cs
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\WedstrijdWindow.g.cs
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\App.g.cs
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal_MarkupCompile.cache
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.g.resources
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.Properties.Resources.resources
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.csproj.GenerateResource.Cache
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.exe
+C:\Users\20002296\Desktop\ExKris\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.pdb
+C:\Users\20002296\Documents\C#\Ex\2014-2015\1eZit Voetbal\Opgave\Voetbal\bin\Debug\Voetbal.exe.config
+C:\Users\20002296\Documents\C#\Ex\2014-2015\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.exe
+C:\Users\20002296\Documents\C#\Ex\2014-2015\1eZit Voetbal\Opgave\Voetbal\obj\Debug\Voetbal.pdb
+C:\Users\20002296\Desktop\ExtraOef\Opgave\Voetbal\bin\Debug\Voetbal.exe.config
+C:\Users\20002296\Desktop\ExtraOef\Opgave\Voetbal\obj\Debug\Voetbal.exe
+C:\Users\20002296\Desktop\ExtraOef\Opgave\Voetbal\obj\Debug\Voetbal.pdb
+D:\.net essentials 2\Voetbal\bin\Debug\Voetbal.exe.config
+D:\.net essentials 2\Voetbal\obj\Debug\Voetbal.exe
+D:\.net essentials 2\Voetbal\obj\Debug\Voetbal.pdb
+D:\.net essentials 2\Voetbal\bin\Debug\Voetbal.exe
+D:\.net essentials 2\Voetbal\bin\Debug\Voetbal.pdb
+D:\.net essentials 2\Voetbal\obj\Debug\Voetbal.csprojResolveAssemblyReference.cache
+D:\.net essentials 2\Voetbal\obj\Debug\MainWindow.baml
+D:\.net essentials 2\Voetbal\obj\Debug\RangschikkingWindow.baml
+D:\.net essentials 2\Voetbal\obj\Debug\WedstrijdWindow.baml
+D:\.net essentials 2\Voetbal\obj\Debug\MainWindow.g.cs
+D:\.net essentials 2\Voetbal\obj\Debug\RangschikkingWindow.g.cs
+D:\.net essentials 2\Voetbal\obj\Debug\WedstrijdWindow.g.cs
+D:\.net essentials 2\Voetbal\obj\Debug\App.g.cs
+D:\.net essentials 2\Voetbal\obj\Debug\Voetbal_MarkupCompile.cache
+D:\.net essentials 2\Voetbal\obj\Debug\Voetbal.g.resources
+D:\.net essentials 2\Voetbal\obj\Debug\Voetbal.Properties.Resources.resources
+D:\.net essentials 2\Voetbal\obj\Debug\Voetbal.csproj.GenerateResource.Cache

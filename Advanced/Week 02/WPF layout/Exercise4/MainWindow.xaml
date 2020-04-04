@@ -1,0 +1,53 @@
+﻿<Window x:Class="Exercise4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="vergrootButton" DockPanel.Dock="Top" VerticalAlignment="Top" HorizontalAlignment="Left" Content="vergroot" Background="Green"/>
+        <Button x:Name="verkleinButton" VerticalAlignment="Top" HorizontalAlignment="Right" Content="verklein" Background="Green"/>
+        
+        <DockPanel>
+            <Canvas DockPanel.Dock="Left" Width="75"/>
+            <Canvas DockPanel.Dock="Right" Width="75"/>
+            <Canvas DockPanel.Dock="Top" Height="75"/>
+            <Canvas DockPanel.Dock="Bottom" Height="75"/>
+
+            <WrapPanel x:Name="rapPanel" Background="Red" ItemWidth="80">
+                <Button>a</Button>
+                <Button>b</Button>
+                <Button>c</Button>
+                <Button>d</Button>
+                <Button>e</Button>
+                <Button>f</Button>
+                <Button>g</Button>
+                <Button>h</Button>
+                <Button>i</Button>
+                <Button>j</Button>
+                <Button>k</Button>
+                <Button>l</Button>
+                <Button>m</Button>
+                <Button>n</Button>
+                <Button>o</Button>
+                <Button>p</Button>
+                <Button>q</Button>
+                <Button>r</Button>
+                <Button>s</Button>
+                <Button>t</Button>
+                <Button>u</Button>
+                <Button>v</Button>
+                <Button>w</Button>
+                <Button>x</Button>
+                <Button>y</Button>
+                <Button>z</Button>
+            </WrapPanel>
+            
+        </DockPanel>
+
+        <TextBlock VerticalAlignment="Bottom" TextAlignment="Center" FontSize="20">Vergroot en verklein de buttons</TextBlock>
+        
+    </Grid>
+</Window>

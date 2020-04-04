@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerAnonymous\WorkerAnonymous\bin\Debug\WorkerAnonymous.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerAnonymous\WorkerAnonymous\bin\Debug\WorkerAnonymous.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerAnonymous\WorkerAnonymous\bin\Debug\WorkerAnonymous.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerAnonymous\WorkerAnonymous\obj\Debug\WorkerAnonymous.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerAnonymous\WorkerAnonymous\obj\Debug\WorkerAnonymous.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerAnonymous\WorkerAnonymous\obj\Debug\WorkerAnonymous.pdb

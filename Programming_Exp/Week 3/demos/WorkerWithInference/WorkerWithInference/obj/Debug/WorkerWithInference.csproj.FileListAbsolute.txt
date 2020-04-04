@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithInference\WorkerWithInference\bin\Debug\WorkerWithInference.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithInference\WorkerWithInference\obj\Debug\WorkerWithInference.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithInference\WorkerWithInference\bin\Debug\WorkerWithInference.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithInference\WorkerWithInference\bin\Debug\WorkerWithInference.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithInference\WorkerWithInference\obj\Debug\WorkerWithInference.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter3\WorkerWithInference\WorkerWithInference\obj\Debug\WorkerWithInference.pdb

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Oef_5._14.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_5._14"
+        mc:Ignorable="d"
+         Title="MainWindow" Height="113.936" Width="243.883">
+    <Grid>
+        <TextBox x:Name="DecimalTextBox" HorizontalAlignment="Left" Height="23" Margin="106,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="BinaryTextBlock" Background="Gray" HorizontalAlignment="Left" Margin="10,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216" Height="20"/>
+        <Button x:Name="ConvertButton" Content="Convert" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="91" Height="23" Click="ConvertButton_Click"/>
+
+    </Grid>
+</Window>

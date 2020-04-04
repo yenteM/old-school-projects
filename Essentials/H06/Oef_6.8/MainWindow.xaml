@@ -1,0 +1,20 @@
+﻿<Window x:Class="Oef_6._8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_6._8"
+        mc:Ignorable="d"
+        Title="Login" Height="201.697" Width="423.75">
+    <Grid>
+        <Label x:Name="naamLabel" Content="Naam:" HorizontalAlignment="Left" Margin="28,39,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label x:Name="passwoordLabel" Content="Passwoord:" HorizontalAlignment="Left" Margin="28,70,0,0" VerticalAlignment="Top" Width="118"/>
+        <TextBox x:Name="naamTextBox" HorizontalAlignment="Left" Height="20" Margin="162,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" ToolTip="Geef je naam."/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="162,76,0,0" VerticalAlignment="Top" Width="225" Height="20" ToolTip="Geef je passwoord."/>
+        <Button x:Name="cancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="162,121,0,0" VerticalAlignment="Top" Width="75" ToolTip="Cancel"/>
+        <Button x:Name="okButton" Content="OK" HorizontalAlignment="Left" Margin="312,121,0,0" VerticalAlignment="Top" Width="75" ToolTip="Aanmelden"/>
+        <ProgressBar HorizontalAlignment="Left" Name="progressbar" Height="18" Margin="28,10,0,0" VerticalAlignment="Top" Width="359" Initialized="progressbar_Initialized" ValueChanged="progressbar_ValueChanged"/>
+
+
+    </Grid>
+</Window>

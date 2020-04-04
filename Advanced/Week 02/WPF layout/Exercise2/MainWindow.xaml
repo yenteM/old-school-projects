@@ -1,0 +1,19 @@
+﻿<Window x:Class="Exercise2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DockPanel>
+            <Button DockPanel.Dock="Top" Content="knop1" Height="50"/>
+            <Button DockPanel.Dock="Right" Content="knop2" Width="50"/>
+            <Button DockPanel.Dock="Bottom" Content="knop3" Height="50"/>
+            <Button DockPanel.Dock="Left" Content="knop4" Width="50"/>
+            <Button Content="knop5" VerticalAlignment="Top" Height="50"/>
+        </DockPanel>
+        
+    </Grid>
+</Window>

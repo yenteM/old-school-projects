@@ -1,0 +1,16 @@
+﻿<Window x:Class="Oef_Dictionairy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef_Dictionairy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="zoekButton" Content="dictionairy Zoek" HorizontalAlignment="Left" Margin="56,104,0,0" VerticalAlignment="Top" Width="97" Click="zoekButton_Click"/>
+        <Label x:Name="resultLabel" Content="" HorizontalAlignment="Left" Margin="186,133,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="searchTextBox" HorizontalAlignment="Left" Height="23" Margin="186,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="arrayZoekButton" Content="array Zoek" HorizontalAlignment="Left" Margin="56,129,0,0" VerticalAlignment="Top" Width="97" Click="arrayZoekButton_Click"/>
+
+    </Grid>
+</Window>

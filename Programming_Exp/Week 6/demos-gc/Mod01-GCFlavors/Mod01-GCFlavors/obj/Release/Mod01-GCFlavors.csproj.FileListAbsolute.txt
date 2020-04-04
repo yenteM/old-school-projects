@@ -1,0 +1,13 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 6\demos-gc\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.exe.config
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 6\demos-gc\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.exe
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 6\demos-gc\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.pdb
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 6\demos-gc\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.csprojAssemblyReference.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 6\demos-gc\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.csproj.CoreCompileInputs.cache
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 6\demos-gc\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.exe
+D:\school\3e\1._Kwartaal_1\1. Programming Exp\1. .net\Week 6\demos-gc\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.pdb

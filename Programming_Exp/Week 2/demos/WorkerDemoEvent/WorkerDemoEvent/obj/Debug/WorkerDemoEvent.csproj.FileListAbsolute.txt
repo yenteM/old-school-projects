@@ -1,0 +1,5 @@
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemoEvent\WorkerDemoEvent\bin\Debug\WorkerDemoEvent.exe.config
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemoEvent\WorkerDemoEvent\bin\Debug\WorkerDemoEvent.exe
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemoEvent\WorkerDemoEvent\bin\Debug\WorkerDemoEvent.pdb
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemoEvent\WorkerDemoEvent\obj\Debug\WorkerDemoEvent.exe
+C:\Users\krish\Dropbox\bitbucket\progrexpnet\chapter2\WorkerDemoEvent\WorkerDemoEvent\obj\Debug\WorkerDemoEvent.pdb
